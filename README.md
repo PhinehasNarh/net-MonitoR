@@ -1,7 +1,3 @@
-Here's a simple, clean README template for your **Network Connection Monitoring Script**: 
-
----
-
 # Network Connection Monitoring Script
 
 This Python script monitors the system's internet connection, logs connection statuses, and calculates downtime duration. The logs are saved in a user-specified file path.

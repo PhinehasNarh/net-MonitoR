@@ -52,6 +52,5 @@ Feel free to fork the repository, make changes, and submit a pull request. Sugge
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
----
 
 ### #ph1n3y
